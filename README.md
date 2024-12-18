@@ -1,4 +1,4 @@
-# Curriculum Vitae, Resume 
+# Curriculum Vitae, Resume, List of Publications, and Selected Publications 
 
 [![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/CurriculumVitae?label=download%20resume%20pdf)](https://github.com/cvinegoni/CurriculumVitae/releases/latest/download/Resume.pdf)
 ![GitHub release date](https://img.shields.io/github/release-date/cvinegoni/CurriculumVitae)
@@ -22,6 +22,10 @@ You can download the latest CV release as PDF by clicking on the badge
 [![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/CurriculumVitae?label=download%20cv%20pdf)](https://github.com/cvinegoni/CurriculumVitae/releases/latest/download/CurriculumVitae.pdf).
 
 Older verions of the CV, Resume, Publication list and Selected Publications can be accessed navigating to the [Releases](https://github.com/cvinegoni/CurriculumVitae/releases) section on the right.
+
+
+<br>
+<br>
 
 ## Versioning Workflow
 
