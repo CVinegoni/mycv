@@ -11,7 +11,7 @@
 
 
 You can download the latest CV release as PDF by clicking the badge 
-[![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/CurriculumVitae?label=download%20cv%20pdf)](https://github.com/cvinegoni/CurriculumVitae/releases/latest/download/CurriculumVitae.pdf). To access the older versions, navigate to the [Releases](https://github.com/cvinegoni/CurriculumVitae/releases) section to the right.
+[![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/mycv?label=download%20cv%20pdf)](https://github.com/cvinegoni/mycv/releases/latest/download/CurriculumVitae.pdf). To access the older versions, navigate to the [Releases](https://github.com/cvinegoni/mycv/releases) section to the right.
 
 
 
