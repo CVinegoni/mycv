@@ -19,6 +19,6 @@ You can download the latest CV release as PDF by clicking the badge
 
 ## Triggering automatic workflow
 
-<br>
+
 For triggering workflow and versioning through Overleaf please refer to [my Gist](https://gist.github.com/vinegoni/8397e18199c0c50f2a8f5ec67200c8e3).
 
