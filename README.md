@@ -1,21 +1,21 @@
 # Curriculum Vitae, Resume 
 
-[![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/CurriculumVitae?label=download%20resume%20pdf)](https://github.com/cvinegoni/CurriculumVitae/releases/latest/download/Resume.pdf)
-![GitHub release date](https://img.shields.io/github/release-date/cvinegoni/CurriculumVitae)
-![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/cvinegoni/CurriculumVitae/latest)
+[![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/mycv?label=download%20resume%20pdf)](https://github.com/cvinegoni/mycv/releases/latest/download/Resume.pdf)
+![GitHub release date](https://img.shields.io/github/release-date/cvinegoni/mycv)
+![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/cvinegoni/mycv/latest)
 
-[![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/CurriculumVitae?label=download%20cv%20pdf)](https://github.com/cvinegoni/CurriculumVitae/releases/latest/download/CurriculumVitae.pdf)
-![GitHub release date](https://img.shields.io/github/release-date/cvinegoni/CurriculumVitae)
-![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/cvinegoni/CurriculumVitae/latest)
+[![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/mycv?label=download%20cv%20pdf)](https://github.com/cvinegoni/mycv/releases/latest/download/CurriculumVitae.pdf)
+![GitHub release date](https://img.shields.io/github/release-date/cvinegoni/mycv)
+![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/cvinegoni/mycv/latest)
 
-[![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/CurriculumVitae?label=download%20publications%20pdf)](https://github.com/cvinegoni/CurriculumVitae/releases/latest/download/Publications.pdf)
-![GitHub release date](https://img.shields.io/github/release-date/cvinegoni/CurriculumVitae)
-![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/cvinegoni/CurriculumVitae/latest)
+[![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/mycv?label=download%20publications%20pdf)](https://github.com/cvinegoni/mycv/releases/latest/download/Publications.pdf)
+![GitHub release date](https://img.shields.io/github/release-date/cvinegoni/mycv)
+![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/cvinegoni/mycv/latest)
 
 
 You can download the latest CV release as PDF by clicking
-[![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/CurriculumVitae?label=download%20cv%20pdf)](https://github.com/cvinegoni/CurriculumVitae/releases/latest/download/CurriculumVitae.pdf)
-badge. To access the older versions, navigate to the [Releases](https://github.com/cvinegoni/CurriculumVitae/releases) section on the right.
+[![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/mycv?label=download%20cv%20pdf)](https://github.com/cvinegoni/mycv/releases/latest/download/CurriculumVitae.pdf)
+badge. To access the older versions, navigate to the [Releases](https://github.com/cvinegoni/mycv/releases) section on the right.
 
 This is the CV I created the first draft of, on Oktoberfest 2017.
 
