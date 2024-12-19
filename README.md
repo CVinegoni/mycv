@@ -13,9 +13,10 @@
 You can download the latest CV release as PDF by clicking the badge 
 [![latest release tag](https://img.shields.io/github/v/tag/cvinegoni/mycv?label=download%20cv%20pdf)](https://github.com/cvinegoni/mycv/releases/latest/download/CurriculumVitae.pdf). To access the older versions, navigate to the [Releases](https://github.com/cvinegoni/mycv/releases) section to the right.
 
-
-
+<br>
+<br>
+<br>
 ## Triggering automatic workflow
-
+<br>
 For triggering workflow and versioning through Overleaf please refer to [my Gist](https://gist.github.com/vinegoni/8397e18199c0c50f2a8f5ec67200c8e3).
 
