@@ -1,20 +1,15 @@
 %Curriculum Vitae Claudio Vinegoni
 \documentclass{resume}
-% For creating coloured text and background
 \usepackage{color}
 \usepackage{graphics}
 \usepackage{eurosym}
 \usepackage{margins}  
 \usepackage{mhchem}
-
 \usepackage[mark]{gitinfo2}
-
 \usepackage{palatino}
 \usepackage{geometry}
-
-%\usepackage[pdfpagemode=None,colorlinks=true]{hyperref}
 \usepackage[colorlinks=true,bookmarksopen,plainpages=false]{hyperref}
-% For creating hyperlinks in cross references
+
 \hypersetup{
   pdftitle={Resume of Claudio Vinegoni},
   pdfsubject={Resume of Claudio Vinegoni},
@@ -23,9 +18,6 @@
 }
 \renewcommand{\categoryfont}{\sc}
 
-
-
-% Initial geometry setup
 \geometry{
   left=2in,  % Left margin (odds and evens)
   right=1in, % Right margin
@@ -34,40 +26,23 @@
   marginparwidth=1.2in  % Width of margin notes (if used)
 }
 
-%\setlength{\oddsidemargin}{1in}
-%\setlength{\marginparwidth}{1.2in}\addtolength{\marginparwidth}{-\marginparsep}
-% \setlength{\evensidemargin}{\oddsidemargin}
-% \setlength{\textwidth}{\paperwidth}
-% \addtolength{\textwidth}{-2in}
-% \addtolength{\textwidth}{-2\oddsidemargin}
-% \addtolength{\textwidth}{\marginparwidth}
-% \addtolength{\textwidth}{\marginparsep}
-%\setlength{\topmargin}{-.5in}
 \renewcommand{\labelcitem}{$\diamond$}
 \renewcommand{\labelitemi}{$\cdot$}
 \newcommand{\first}{$1^{\mbox{\scriptsize st}}$\ }
 \newcommand{\second}{$2^{\mbox{\scriptsize nd}}$\ }
 \newcommand{\third}{$3^{\mbox{\scriptsize rd}}$\ }
 \pdfcompresslevel=9
-
 \newcommand{\tabspace}{~~~}
 \newcommand{\indenta}{\lindent{0.3}}
 \newcommand{\indentaa}{\lindent{1.3}}
-
 \newcommand{\titresection}[1]
 {
   \vspace{0em}
-%  \vfill
   \definecolor{gris_clair}{rgb}{0.90, 0.90, 0.90}
   \colorbox{gris_clair}{\makebox[\textwidth][l]{\rule[-0.1em]{0em}{0.5em}\large{\textsc{#1}}}} \\
-  %\vspace{0.5em}
 }
-%\titresection{NAME:}
 
 \definecolor{Dark}{gray}{.20}
-
-
-
 
 \pdfbookmark[1]{Resume}{resume}
 \author{~~~~~~~~Claudio Vinegoni, Ph.D.}
@@ -110,12 +85,12 @@
 \begin{category}{Education}
 \citem{University of Geneva}, Geneva, Switzerland.\\
 Ph.D. in Physics, in the group of Prof. N. Gisin (2002).\\
-Thesis title: \href{https://sites.google.com/site/vinegoni/thesis-ph-d}{{\em Nonlinear Effects in Optical
+Thesis title: \href{https://cvinegoni.github.io/publications/thesis/Thesis-PHD.pdf}{{\em Nonlinear Effects in Optical
 Fibers}}.
 
 \citem{University of Trento}, Trento, Italy. \\
 M.Sc. in Physics, October 1996.\\
-Thesis title: \href{https://sites.google.com/site/vinegoni/thesismsc}{{\em Structure and Vibrational
+Thesis title: \href{https://cvinegoni.github.io/publications/thesis/Thesis-MSc.pdf}{{\em Structure and Vibrational
 Properties of Electrochromic
 Materials}}
 \citemnobullet
@@ -220,6 +195,7 @@ Associate Editor {\it "Frontiers in Physics"} in the category Medical Physics an
 
 \citembullet 
 Reviewer for the following journals: {\it Advanced Science, Applied Physics Letters Photonics, Biomedical Optics Express, Biotechnology Journal, Circulation: Cardiovascular Imaging, ACS Chemical and Biomedical Imaging, Cytometry, eLife, F1000research, Frontiers in Physics, Frontiers in Immunology, IEEE Access, IEEE Advances, IEEE Transactions on Information Technology in BioMedicine,  IEEE Transaction on Biomedical Engineering, IEEE Transactions of Instrument and Measurements, IEEE Transactions on Med. Imaging,  IEEE Journal of Biomedical and Health Informatics, Int. J. of Biochemistry, Int. J. of Biomedical Imaging, JACC: Cardiovascular Imaging, Journal of Biophotonics, J. Lightwave Technology, Journal of Mathematical Imaging and Vision, Journal of Microscopy, Journal of Molecular Imaging, Journal Nuclear Medicine, JOVE,  Methods and Applications in Fluorescence, Micromachines, Molecular Imaging, Molecular Imaging and Biology, Nature Communications, Nature Methods, Nature Protocols, Optica, Optics Communications, Optics Express, Optics Letters, Photoacoustics, Photonics and Technology Letters, PhotoniX, Physical Review A, Physical Review E, PlosOne, Review of Scientific Instruments, Scientific Reports, SLAS Discovery.}
+
 \citembullet 
 Chair of the "Molecular Infrared and other novel imaging modalities" session at {\it IEEE Engineering Medicine and Biology, Boston USA (2011).}
 \citembullet 
@@ -244,9 +220,6 @@ following address:
 \citemnobullet 
 \today{}
 \end{category}
-%\cite{2002-PTL}
-
-%\printbibliography %Prints bibliography
 
 \newgeometry{
 left=0.5in,    % Adjusted left margin (same as \oddsidemargin)
@@ -259,34 +232,15 @@ left=0.5in,    % Adjusted left margin (same as \oddsidemargin)
 }
 
 \renewcommand{\categoryfont}{\sc}
-
-
-
-
-
 \pagenumbering{gobble}
-
-
-
-
 \newpage
-
-
-
-%\pdfbookmark[1]{Curriculum Vitae}{cv}
-
-
 \tabspace\\
 {$^\dag$} \tabspace{equal contribution}\\
 {$^\#$} \tabspace{corresponding author}\\
 
-
-
 \pdfbookmark[1]{Publications}{pub} \pdfbookmark[2]{Books}{books}
 \begin{category}{~~}
-%\citemnobullet
-%\citemnobullet \hypertarget{booksa}{\textbf{\large PUBLICATIONS:
-%BOOKS}}
+
 \hypertarget{booksa}{\citemnobullet \titresection{\textbf{\large
 PUBLICATIONS: BOOKS}}}
 \begin{enumerate}
@@ -317,9 +271,7 @@ Springer
 
 \pdfbookmark[2]{Articles}{articles}
 \begin{category}{~~}
-%\citemnobullet
-%\citemnobullet
-%\hypertarget{articlesa} {\textbf{\large PUBLICATIONS: ARTICLES}}
+
 \hypertarget{articlesa}{\citemnobullet \titresection{\textbf{\large
 PUBLICATIONS: ARTICLES}}}
 
@@ -384,9 +336,7 @@ PUBLICATIONS: ARTICLES}}}
 
 \pdfbookmark[2]{Conferences}{conferences}
 \begin{category}{~~}
-%\citemnobullet
-%\citemnobullet
-%\hypertarget{conferencesa}{\textbf{\large PUBLICATIONS: CONFERENCES}}
+
 \hypertarget{conferencesa}{\citemnobullet
 \titresection{\textbf{\large PUBLICATIONS: CONFERENCES}}}
 \begin{enumerate}
@@ -411,12 +361,10 @@ PUBLICATIONS: ARTICLES}}}
 
 \pdfbookmark[2]{Proceedings}{proceedings}
 \begin{category}{~~}
-%\citemnobullet
-%\citemnobullet
-%\hypertarget{conferencesb}{\textbf{\large PUBLICATIONS: PROCEEDINGS}}
+
 \hypertarget{conferencesb}{\citemnobullet
 \titresection{\textbf{\large PUBLICATIONS: PROCEEDINGS}}}
-%\citemnobullet
+
 \begin{enumerate}
 
 \item \href{https://cvinegoni.github.io/assets/pdf/proceedings/2024-CAI.pdf}{\it  Providing Real-World Benchmarks for Super-Resolving Fluorescence Microscope Imagery Using Generative Adversarial Networks} \\ Cooper, J. and Issa, T.B. and {\bf Vinegoni, C.} and Weissleder, R.\\ ``IEEE Conference on Artificial Intelligence (CAI)''  (2024). 
@@ -426,9 +374,6 @@ PUBLICATIONS: ARTICLES}}}
 
 \end{enumerate}
 \end{category}
-
-%\begin{category}
-%\newline
 \tabspace 
 \newline
 \newline
@@ -436,6 +381,5 @@ PUBLICATIONS: ARTICLES}}}
 \newline
 {Last Updated}:
 \today{}
-%\end{category}
 
 \end{document}
